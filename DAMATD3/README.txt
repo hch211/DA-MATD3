@@ -21,3 +21,7 @@ load_prediction.py is the main file to train the linear regression model for pre
 Useful codes is a folder of my other projects' codes for helping your revision which includes the environments 
 of the commercial and industrial MEMG and generation and demand data of all three MEMGs.
 
+
+orderbook automatic generation -- to do
+
+mitigation -- to do
